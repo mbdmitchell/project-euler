@@ -1,5 +1,5 @@
 # project-euler
 
-Project Euler is a website dedicated to a series of computational problems intended to be solved with computer programs.
+Project Euler is a website containing a series of computational problems.
 
-This repo contains some of my solutions to the problems
+This repo contains some of my solutions
